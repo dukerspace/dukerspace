@@ -1,35 +1,35 @@
 <p>
-  Hi my name is <strong>Montol Saklor</strong> from Chaing Mai, Thailand. Full-time job as <strong><i>software engineer</i></strong>.
+  Hi my name is <strong>Montol Saklor</strong> from Chaing Mai, Thailand. Full-time job as <strong>software engineer</strong>.
 </p>
 
-<h2><i>Skill</i></h2>
+<h2>Skill</h2>
 <ul>
-  <li><strong><i>Golang</i></strong></li>
+  <li><strong>Golang</strong></li>
   <ul>
-    <li>⚡ Go Fiber</li>
+    <li>Go Fiber</li>
   </ul>
   <p></p>
-  <li><strong><i>Typescript / Javascript / Node.js</i></strong></li>
+  <li><strong>Typescript / Javascript / Node.js</strong></li>
   <ul>
-    <li>⚛️ ReactJs</li>
-    <li>😼 NestJS</li>
+    <li>ReactJs</li>
+    <li>NestJS</li>
   </ul>
   <p></p>
-   <li><strong><i>PHP</i></strong></li>
+   <li><strong>PHP</strong></li>
   <ul>
-    <li>🐘 Laravel</li>
+    <li>Laravel</li>
   </ul>
   <p></p>
-  <li><strong><i>Database</i></strong></li>
+  <li><strong>Database</strong></li>
   <ul>
-    <li>🐘 PostgreSQL</li>
-    <li>🐬 MySQL</li>
-    <li>🍃 MongoDb</li>
+    <li>PostgreSQL</li>
+    <li>MySQL</li>
+    <li>MongoDb</li>
   </ul>
   <p></p>
-  <li><strong><i>Etc</i></strong></li>
+  <li><strong>Etc</strong></li>
   <ul>
-    <li>🐳 Docker</li>
+    <li>Docker</li>
     <li>AWS,GCP,Azure</li>
   </ul>
 </ul>
