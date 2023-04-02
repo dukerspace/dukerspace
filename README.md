@@ -11,7 +11,7 @@
   <p></p>
   <li><strong>Typescript / Javascript / Node.js</strong></li>
   <ul>
-    <li>ReactJs</li>
+    <li>ReactJS</li>
     <li>NestJS</li>
   </ul>
   <p></p>
@@ -24,12 +24,12 @@
   <ul>
     <li>PostgreSQL</li>
     <li>MySQL</li>
-    <li>MongoDb</li>
+    <li>MongoDB</li>
   </ul>
   <p></p>
   <li><strong>Etc</strong></li>
   <ul>
     <li>Docker</li>
-    <li>AWS,GCP,Azure</li>
+    <li>AWS, GCP, Azure</li>
   </ul>
 </ul>
