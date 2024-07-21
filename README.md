@@ -6,7 +6,8 @@
 <ul>
   <li><strong>Golang</strong></li>
   <ul>
-    <li>Go Fiber</li>
+    <li>Fiber</li>
+    <li>Echo</li>
   </ul>
   <p></p>
   <li><strong>Typescript / Javascript / Node.js</strong></li>
