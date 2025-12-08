@@ -12,8 +12,8 @@
   <p></p>
   <li><strong>Typescript / Javascript / Node.js</strong></li>
   <ul>
-    <li>ReactJS</li>
-    <li>NestJS</li>
+    <li>ReactJS: React router framework, Nextjs</li>
+    <li>NestJS, Hono</li>
   </ul>
   <p></p>
    <li><strong>PHP</strong></li>
@@ -30,7 +30,7 @@
   <p></p>
   <li><strong>Etc</strong></li>
   <ul>
-    <li>Docker</li>
+    <li>CI/CD</li>
     <li>AWS, GCP, Azure</li>
   </ul>
 </ul>
